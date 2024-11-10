@@ -25,8 +25,9 @@ O objetivo principal é levar seu pet até os 50 anos de idade. Mas atenção! S
 
 
 ## 🧩Como Funciona o Código:
-*O código foi desenvolvido em Kotlin e utiliza diversas funções para simular a interação com o animal virtual.
-*O jogo simula o comportamento de um animal de estimação, onde o usuário precisa tomar decisões sobre o que fazer (alimentar, brincar, descansar, etc.).
-*O tempo dentro do jogo é simulado, e o animal envelhece conforme o jogo avança.
-*Funções como alimentar, brincar, descansar e verificar status permitem ao jogador cuidar do animal de forma divertida.**
+
+-**O código foi desenvolvido em Kotlin e utiliza diversas funções para simular a interação com o animal virtual.**
+-**O jogo simula o comportamento de um animal de estimação, onde o usuário precisa tomar decisões sobre o que fazer (alimentar, brincar, descansar, etc.).**
+-**O tempo dentro do jogo é simulado, e o animal envelhece conforme o jogo avança.**
+-**Funções como alimentar, brincar, descansar e verificar status permitem ao jogador cuidar do animal de forma divertida.**
 
