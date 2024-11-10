@@ -1,5 +1,6 @@
- #🐧Simulador de Animal de Estimação Virtual 🐧##
-##🌟 Bem-vindo ao Simulador de Animal de Estimação Virtual!🦋##
+##🐧Simulador de Animal de Estimação Virtual 🐧
+
+##🌟 Bem-vindo ao Simulador de Animal de Estimação Virtual!🦋
 Este é um jogo interativo onde você tem a responsabilidade de cuidar de um bichinho virtual. Seu objetivo é garantir que ele seja feliz e saudável enquanto cuida das suas necessidades básicas, como alimentação, descanso e brincadeiras. Mas fique atento! O tempo passa, e seu pet pode ficar cansado ou sujo. O desafio é manter tudo sob controle até que seu bichinho atinja a idade de 50 anos!
 
 🌟 Funcionalidades:
